@@ -1,0 +1,28 @@
+.hide, .no {
+    display: none;
+}
+
+body {
+    font-family: Calibri, Arial, sans-serif;
+}
+
+header, h1 {
+    text-align: center;
+}
+
+.gauge {
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 2em;
+}
+
+.gauge .velocity, .gauge .targetDistance, .gauge .targetTime {
+    font-size: 4.5em;
+}
+
+.gauge .units {
+}
+
+.footnote {
+    text-align: center;
+}

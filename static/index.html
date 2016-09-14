@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8">
+        <title>RTD</title>
+        <meta name="viewport" content="width=device-width">
+        <link href="style.css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <h1>Run for the bus</h1>
+        </header>
+        <main class="hide">
+        <p class="gauge"><span class="velocity"></span> <span class="units">MPH</span><br>current speed</p>
+            <p class="gauge"><span class="targetDistance"></span><br><span class="units">feet</span> from <strong class="targetStop"></strong></p>
+            <p class="gauge"><span class="targetTime"></span><br><span class="targetTimeUnits units">minutes</span> from <strong class="targetStop"></strong></p>
+            <p class="error"></p>
+            <form>
+                <input type="hidden" name="targetLat" value="39.75467">
+                <input type="hidden" name="targetLon" value="-105.003443">
+                <input type="hidden" name="targetStop" value="Union Station">
+            </form>
+            <p class="no">You are at <span class="lat">?</span> and <span class="lon">?</span>. Update <span class="update"></span>.</p>
+            <p class="no">I think you just traveled <span class="distance">?</span> feet.</p>
+            <p class="no">I think your speed is <span class="velocity">?</span> MPH.</p>
+            <p class="no">You are <span class="targetDistance">?</span> feet from <span class="targetStop"></span>.</p> 
+            <p class="no">You will be there in <span class="targetTime"></span> <span class="targetTimeUnits"></span>.</p>
+            <p class="footnote">If you were walking a normal speed, you would be there in <span class="avgTargetTime"></span> <span class="avgTargetTimeUnits"></span>.</p>
+        </main>
+        <script src="acc.js"></script>
+    </body>
+</html>
