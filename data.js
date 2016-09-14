@@ -1,3 +1,4 @@
+var Client = require('node-rest-client').Client;
 var Converter = require('csvtojson').Converter;
 var fs = require('fs');
 var realtime = require('rtd-realtime');
@@ -22,6 +23,7 @@ function promisify(fn, arg) {
 
 module.exports = function() {
   var baseDir = 'gtfs-schedule';
+  var client = new Client();
   var converter = new Converter({});
   var routes, stops;
   var routesFile = baseDir + '/routes.txt';
@@ -30,18 +32,37 @@ module.exports = function() {
   return Promise.all([
     promisify(converter.fromFile, routesFile),
     promisify(converter.fromFile, stopsFile),
-    promisify(realtime.VehiclePositions.load)
+    promisify(realtime.TripUpdates.load)
   ]).then(function([routes, stops, realtime]) {
-    function getDistance(origin, destination) {
+    function distanceBetween(origin, destination) {
       var googleAPIKey = 'AIzaSyBYy3BEcltI0LnvHPkOMSHX7cQ0RkgZUmU';
-      var googleAPIURL = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' +
-          origin.join(',') + '&destinations=' + destination(',') + '&key=' + googleAPIKey;
+      var googleAPIURL = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial' +
+          '&mode=walking' +
+          '&origins=' + origin.join(',') +
+          '&destinations=' + destination(',') +
+          '&key=' + googleAPIKey;
+
+      client.get(googleAPIURL, function(data, response) {
+        if (response.status == 200 && data.rows) {
+          var firstRow = data.rows[0];
+          var firstElement = firstRow.elements && firstRow.elements[0];
+          var distanceMeters = firstElement && firstElement.distance.value; // CAUTION: IN METERS!
+          var distance = distanceMeters * 3.281;
+
+          return distance;
+        }
+      });
     }
 
-    function getStopInfo(stopId) {
+    function stopInfo(stopId) {
+      return stopId && stops.find(function(stop) {
+        return stop.stop_id == stopId;
+      });
     }
   });
 
-  return {};
+  return {
+    getStopInfo: getStopInfo
+  };
 };
 
