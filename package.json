@@ -1,0 +1,24 @@
+{
+  "name": "rtd-hack",
+  "version": "1.0.0",
+  "description": "Run for the Bus",
+  "main": "index.js",
+  "dependencies": {
+    "csvtojson": "^1.0.2",
+    "rtd-realtime": "github:steveszc/rtd-realtime"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/steboo/rtd-hackfest.git"
+  },
+  "author": "steboo,oladon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steboo/rtd-hackfest/issues"
+  },
+  "homepage": "https://github.com/steboo/rtd-hackfest#readme"
+}
