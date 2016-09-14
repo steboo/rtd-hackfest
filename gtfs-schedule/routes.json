@@ -1,0 +1,326 @@
+[
+{"route_id":0,"route_short_name":0,"route_long_name":"South Broadway","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"0L","route_short_name":"0L","route_long_name":"South Broadway Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":1,"route_short_name":1,"route_long_name":"1st Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":10,"route_short_name":10,"route_long_name":"East 12th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":100,"route_short_name":100,"route_long_name":"Kipling Street","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"100L","route_short_name":"100L","route_long_name":"South Kipling Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"101C","route_short_name":"C","route_long_name":"Union Station to Littleton-Mineral Station","route_desc":"This Route Travels Northbound & Southbound","route_type":0,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"F79239","route_text_color":"FFFFFF"}
+,
+{"route_id":"101D","route_short_name":"D","route_long_name":"30th & Downing Station to Littleton-Mineral Station","route_desc":"This Route Travels Northbound & Southbound","route_type":0,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":8348,"route_text_color":"FFFFFF"}
+,
+{"route_id":"101E","route_short_name":"E","route_long_name":"Union Station to Lincoln Station","route_desc":"This Route Travels Northbound & Southbound","route_type":0,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":552683,"route_text_color":"FFFFFF"}
+,
+{"route_id":"101F","route_short_name":"F","route_long_name":"18th & California Station to Lincoln Station","route_desc":"This Route Travels Northbound & Southbound","route_type":0,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"EE3E33","route_text_color":"FFFFFF"}
+,
+{"route_id":"101H","route_short_name":"H","route_long_name":"18th & California Station to Nine Mile Station","route_desc":"This Route Travels Northbound & Southbound","route_type":0,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0075BE","route_text_color":"FFFFFF"}
+,
+{"route_id":"103W","route_short_name":"W","route_long_name":"Union Station to Jefferson County Government Center-Golden Station","route_desc":"This Route Travels Eastbound & Westbound","route_type":0,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"009DAA","route_text_color":"FFFFFF"}
+,
+{"route_id":104,"route_short_name":104,"route_long_name":"West 104th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"104X","route_short_name":"104X","route_long_name":"Commerce City / Denver Express","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":105,"route_short_name":105,"route_long_name":"Havana Street","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":11,"route_short_name":11,"route_long_name":"Mississippi Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":112,"route_short_name":112,"route_long_name":"West 112th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"113B","route_short_name":"B","route_long_name":"Union Station to Westminster Station","route_desc":"This Route Travels Northbound & Southbound","route_type":2,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"4E9D2D","route_text_color":"FFFFFF"}
+,
+{"route_id":"116L","route_short_name":"116L","route_long_name":"South Simms Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"116X","route_short_name":"116X","route_long_name":"South Simms Express","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":12,"route_short_name":12,"route_long_name":"Downing / N Washington","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":120,"route_short_name":120,"route_long_name":"120th Avenue / Brighton","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"120X","route_short_name":"120X","route_long_name":"Wagon Road / Thornton Express","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":121,"route_short_name":121,"route_long_name":"Peoria Street","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"122X","route_short_name":"122X","route_long_name":"Wagon Road / Civic Center Express","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":128,"route_short_name":128,"route_long_name":"Broomfield / Wagon Road","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":130,"route_short_name":130,"route_long_name":"Yale / Buckley","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":131,"route_short_name":131,"route_long_name":"East Iliff / Seven Hills","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":133,"route_short_name":133,"route_long_name":"Hampden/Tower","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":135,"route_short_name":135,"route_long_name":"Smoky Hill Road","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":139,"route_short_name":139,"route_long_name":"Quincy Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":14,"route_short_name":14,"route_long_name":"West Florida Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"145X","route_short_name":"145X","route_long_name":"Brighton / Denver Airport","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":15,"route_short_name":15,"route_long_name":"East Colfax Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":153,"route_short_name":153,"route_long_name":"Chambers Road","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":157,"route_short_name":157,"route_long_name":"CCA - Buckley","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"15L","route_short_name":"15L","route_long_name":"East Colfax Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":16,"route_short_name":16,"route_long_name":"West Colfax Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":169,"route_short_name":169,"route_long_name":"Buckley Road","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"169L","route_short_name":"169L","route_long_name":"Buckley / Tower DIA Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"16L","route_short_name":"16L","route_long_name":"West Colfax Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":17,"route_short_name":17,"route_long_name":"Red Rocks College","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":19,"route_short_name":19,"route_long_name":"North Pecos","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"1W","route_short_name":"1W","route_long_name":"1st Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":20,"route_short_name":20,"route_long_name":"20th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":204,"route_short_name":204,"route_long_name":"Table Mesa / Moorhead / North 19th","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":205,"route_short_name":205,"route_long_name":"28th St / Gunbarrel / Heatherwood","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"205T","route_short_name":"205T","route_long_name":"28th St / Gunbarrel / Heatherwood","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":206,"route_short_name":206,"route_long_name":"Pearl / Eisenhower / Fairview H.S.","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"206F","route_short_name":"206F","route_long_name":"Pearl / Eisenhower / Fairview H.S.","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":208,"route_short_name":208,"route_long_name":"Iris / Valmont","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"208F","route_short_name":"208F","route_long_name":"Iris / Valmont","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":209,"route_short_name":209,"route_long_name":"CU / Thunderbird","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"209G","route_short_name":"209G","route_long_name":"CU / Thunderbird","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":21,"route_short_name":21,"route_long_name":"Evans Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":225,"route_short_name":225,"route_long_name":"Boulder / Lafayette via Baseline","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"225D","route_short_name":"225D","route_long_name":"Boulder / Lafayette via Baseline","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"225E","route_short_name":"225E","route_long_name":"Boulder / Lafayette via Baseline","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":228,"route_short_name":228,"route_long_name":"Louisville / Broomfield","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":24,"route_short_name":24,"route_long_name":"University Blvd","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":27,"route_short_name":27,"route_long_name":"Yale Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":28,"route_short_name":28,"route_long_name":"28th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"28B","route_short_name":"28B","route_long_name":"28th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":29,"route_short_name":29,"route_long_name":"Riverbend","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":3,"route_short_name":3,"route_long_name":"Alameda Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":30,"route_short_name":30,"route_long_name":"South Federal Blvd","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"30L","route_short_name":"30L","route_long_name":"South Federal Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":31,"route_short_name":31,"route_long_name":"Federal Blvd","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"31L","route_short_name":"31L","route_long_name":"North Federal Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":32,"route_short_name":32,"route_long_name":"West 32nd Avenue / City Park","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":323,"route_short_name":323,"route_long_name":"Skyline Crosstown","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":324,"route_short_name":324,"route_long_name":"Main Street","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":326,"route_short_name":326,"route_long_name":"Westside Crosstown","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":327,"route_short_name":327,"route_long_name":"Eastside Crosstown","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"33A","route_short_name":"33A","route_long_name":"Platte Valley","route_desc":"This Route Travels Clock-wise & Counter clock-wise","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"33B","route_short_name":"33B","route_long_name":"Platte Valley","route_desc":"This Route Travels Clock-wise & Counter clock-wise","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":34,"route_short_name":34,"route_long_name":"Bruce Randolph Ave","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":35,"route_short_name":35,"route_long_name":"Hampden Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":36,"route_short_name":36,"route_long_name":"Fort Logan","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"36L","route_short_name":"36L","route_long_name":"Fort Logan Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":37,"route_short_name":37,"route_long_name":"Smith Road Industrial","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":38,"route_short_name":38,"route_long_name":"West 38th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"39L","route_short_name":"39L","route_long_name":"North Colorado Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"3L","route_short_name":"3L","route_long_name":"East Alameda Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":4,"route_short_name":4,"route_long_name":"Morrison Road","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":40,"route_short_name":40,"route_long_name":"Colorado Boulevard","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":401,"route_short_name":401,"route_long_name":"Highlands Ranch/Mineral","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"402L","route_short_name":"402L","route_long_name":"Highlands Ranch Parkway","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":403,"route_short_name":403,"route_long_name":"Wildcat Crosstown","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":42,"route_short_name":42,"route_long_name":"Montbello via Albrook/GVR","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":43,"route_short_name":43,"route_long_name":"Martin Luther King Blvd","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":44,"route_short_name":44,"route_long_name":"44th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":45,"route_short_name":45,"route_long_name":"Montbello via 51st/GVR","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":46,"route_short_name":46,"route_long_name":"South Dahlia","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":48,"route_short_name":48,"route_long_name":"East 48th Avenue / Commerce City","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":483,"route_short_name":483,"route_long_name":"Parker Road - Lincoln Ave","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":50,"route_short_name":50,"route_long_name":"Lakes Crosstown","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":51,"route_short_name":51,"route_long_name":"Sheridan Blvd","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":52,"route_short_name":52,"route_long_name":"W 52nd Avenue / South Bannock","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"55L","route_short_name":"55L","route_long_name":"Olde Town Arvada Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":59,"route_short_name":59,"route_long_name":"West Bowles","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":6,"route_short_name":6,"route_long_name":"East 6th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":65,"route_short_name":65,"route_long_name":"Monaco Parkway","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":66,"route_short_name":66,"route_long_name":"Arapahoe Road","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":67,"route_short_name":67,"route_long_name":"Ridge Road","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":72,"route_short_name":72,"route_long_name":"72nd Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"008FBF","route_text_color":"FFFFFF"}
+,
+{"route_id":"72L","route_short_name":"72L","route_long_name":"Quaker via Ward Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"72W","route_short_name":"72W","route_long_name":"72nd Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"008FBF","route_text_color":"FFFFFF"}
+,
+{"route_id":73,"route_short_name":73,"route_long_name":"Quebec Street","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":76,"route_short_name":76,"route_long_name":"Wadsworth Blvd","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":77,"route_short_name":77,"route_long_name":"Ken Caryl Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":8,"route_short_name":8,"route_long_name":"North Broadway / Huron","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":80,"route_short_name":80,"route_long_name":"80th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"80L","route_short_name":"80L","route_long_name":"West 80th Limited","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"83D","route_short_name":"83D","route_long_name":"Cherry Creek / Parker Rd Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"83L","route_short_name":"83L","route_long_name":"Cherry Creek / Parker Rd Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":85,"route_short_name":85,"route_long_name":"Chatfield Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"87L","route_short_name":"87L","route_long_name":"South Wadsworth Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":88,"route_short_name":88,"route_long_name":"Northglenn/Comm City/Central Park","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":89,"route_short_name":89,"route_long_name":"Stapleton / Anschutz Campus","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":9,"route_short_name":9,"route_long_name":"West 10th Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"90L","route_short_name":"90L","route_long_name":"US36 & Sheridan Limited","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":92,"route_short_name":92,"route_long_name":"92nd Avenue","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"A","route_short_name":"A","route_long_name":"Union Station to Denver Airport Station","route_desc":"This Route Travels Eastbound & Westbound","route_type":2,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"57C1E9","route_text_color":"FFFFFF"}
+,
+{"route_id":"AA","route_short_name":"AA","route_long_name":"Wagon Road / Denver Airport","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"57C1E9","route_text_color":"FFFFFF"}
+,
+{"route_id":"AB","route_short_name":"AB","route_long_name":"Boulder / DIA","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"57C1E9","route_text_color":"FFFFFF"}
+,
+{"route_id":"ART","route_short_name":"ART","route_long_name":"ART","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"FFFF00","route_text_color":0}
+,
+{"route_id":"AT","route_short_name":"AT","route_long_name":"Arapahoe County / DIA","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"57C1E9","route_text_color":"FFFFFF"}
+,
+{"route_id":"ATA","route_short_name":"ATA","route_long_name":"Arapahoe County / DIA","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"57C1E9","route_text_color":"FFFFFF"}
+,
+{"route_id":"BOLT","route_short_name":"BOLT","route_long_name":"Boulder / Longmont","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"BOND","route_short_name":"BOUND","route_long_name":"30th Street","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"CS","route_short_name":"CS","route_long_name":"Pine Junction / Conifer / Denver","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"CV","route_short_name":"CV","route_long_name":"Pine Junction / Conifer / Denver","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"CX","route_short_name":"CX","route_long_name":"Pine Junction / Conifer / Denver","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"DASH","route_short_name":"DASH","route_long_name":"Boulder / Lafayette via Louisville","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"ES","route_short_name":"ES","route_long_name":"Evergreen / Aspen Park / Denver","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"EV","route_short_name":"EV","route_long_name":"Evergreen / Aspen Park / Denver","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"EX","route_short_name":"EX","route_long_name":"Evergreen / Aspen Park / Denver","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"FF1","route_short_name":"FF1","route_long_name":"Flatiron Flyer","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":5798,"route_text_color":"FFFFFF"}
+,
+{"route_id":"FF2","route_short_name":"FF2","route_long_name":"Flatiron Flyer","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":5798,"route_text_color":"FFFFFF"}
+,
+{"route_id":"FF3","route_short_name":"FF3","route_long_name":"Flatiron Flyer","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":5798,"route_text_color":"FFFFFF"}
+,
+{"route_id":"FF4","route_short_name":"FF4","route_long_name":"Flatiron Flyer","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":5798,"route_text_color":"FFFFFF"}
+,
+{"route_id":"FF5","route_short_name":"FF5","route_long_name":"Flatiron Flyer","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":5798,"route_text_color":"FFFFFF"}
+,
+{"route_id":"FF6","route_short_name":"FF6","route_long_name":"Flatiron Flyer","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":5798,"route_text_color":"FFFFFF"}
+,
+{"route_id":"FMR","route_short_name":"FREE METRORIDE","route_long_name":"Free MetroRide","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"FFFF00","route_text_color":0}
+,
+{"route_id":"GS","route_short_name":"GS","route_long_name":"Golden / Boulder","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"HOP","route_short_name":"HOP","route_long_name":"Boulder Circulator","route_desc":"This Route Travels Clock-wise & Counter clock-wise","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0099CC","route_text_color":"FFFFFF"}
+,
+{"route_id":"J","route_short_name":"J","route_long_name":"Longmont / East Boulder / CU","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"JUMP","route_short_name":"JUMP","route_long_name":"Boulder / Lafayette via Arapahoe","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"L","route_short_name":"L","route_long_name":"Longmont / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"LNX","route_short_name":"LNX","route_long_name":"Longmont / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"LSX","route_short_name":"LSX","route_long_name":"Longmont / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"LX","route_short_name":"LX","route_long_name":"Longmont / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"MALL","route_short_name":"MALLRIDE","route_long_name":"Free Mall Ride","route_desc":"","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"FFFF00","route_text_color":0}
+,
+{"route_id":"N","route_short_name":"N","route_long_name":"Nederland / Boulder","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"P","route_short_name":"P","route_long_name":"Parker / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"R","route_short_name":"R","route_long_name":"Brighton / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"RC","route_short_name":"RC","route_long_name":"Brighton / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"RX","route_short_name":"RX","route_long_name":"Brighton / Denver","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+,
+{"route_id":"SKIP","route_short_name":"SKIP","route_long_name":"Broadway","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"STMP","route_short_name":"STAMPEDE","route_long_name":"CU East Campus","route_desc":"This Route Travels Eastbound & Westbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"0076CE","route_text_color":"FFFFFF"}
+,
+{"route_id":"Y","route_short_name":"Y","route_long_name":"Lyons / Boulder","route_desc":"This Route Travels Northbound & Southbound","route_type":3,"route_url":"http://www.rtd-denver.com/Schedules.shtml","route_color":"64A70B","route_text_color":"FFFFFF"}
+
+]
